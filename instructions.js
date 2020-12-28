@@ -45,15 +45,15 @@ export const instructions = {
     next: 'Clique a tecla "Próximo” para começar',
   },
   ar: {
-    title: "",
-    subHeading: "",
-    instruction1: "",
-    instruction2: "",
-    instruction3: "",
-    list: "",
-    list1: "",
-    list2: "",
-    next: "",
+    title: "إرشادات التقييم..",
+    subHeading: "اقرأ ما يلي بعناية.",
+    instruction1: "ينقسم هذا التقييم إلى أربعة (4) أقسام وسيتطلب إكماله 45 دقيقة تقريبًا. يوصى بإجراء التقييم في بيئة خالية من مصادر الإلهاء مع التركيز الأمثل.",
+    instruction2: "يرجى ملاحظة أنك ستجيب على كل الأسئلة ويمكنك فقط أخذ التقويم المعرفي مرة واحدة.",
+    instruction3: "سيُطلب منك أيضًا تحميل نموذج بطاقة هوية (جواز سفر دولي، رخصة قيادة، Residency أو بطاقة مواطن، بطاقة الناخبين، بطاقة الهوية الضريبية). يرجى إجراء مسح ضوئي لنموذج المعرّف الذي اخترته والاستعداد للتحميل بتنسيق .pdf أو .jpeg أو .jpg أو .png أو .gif أو .doc قبل البدء. ",
+    list: "معايير إلغاء التأهيل التلقائي:",
+    list1: ". إذا كنت تحت سن 18 سنة. ",
+    list2: "إذا كنت قد حصلت على منحة أو بذرة رأس مال من TEF في السنوات السابقة.",
+    next: "انقر فوق الزر "التالي" للبدء.",
   },
 };
 
@@ -64,7 +64,7 @@ export const sectionOneTranslations = {
     "Cette série de questions est à propos de vous. Veuillez-vous assurer que les informations personnelles que vous fournissez correspondent aux informations figurant sur votre pièce d'identité.",
   pt:
     "Por favor, assegure que os detalhes pessoais que someteu contém as mesmas informações na sua ID.",
-  ar: "",
+  ar: " هذه المجموعة من الأسئلة تتعلق بك. يرجى التأكد من تطابق التفاصيل الشخصية التي تقدمها مع المعلومات الواردة في إثبات الهوية.",
 };
 
 export const sectionTwoTranslations = {
@@ -74,7 +74,7 @@ export const sectionTwoTranslations = {
     "La prochaine série de questions porte sur votre idée d'entreprise et votre expérience. Veuillez fournir des réponses complètes et précises.",
   pt:
     "As próximas questões se tratam da sua idéia de negócio e a sua experiência. Você tem que escolher a resposta mais correta.",
-  ar: "",
+  ar: " تتعلق مجموعة الأسئلة التالية بفكرة العمل وخبرته. يرجى تقديم إجابات كاملة ودقيقة.",
 };
 
 export const sectionThreeTranslations = {
