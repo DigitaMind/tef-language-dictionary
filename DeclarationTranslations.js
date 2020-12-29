@@ -109,35 +109,35 @@ export const DeclarationTranslations = {
       "Você ou seu (s) parceiro (s) de negócios já foram investigados, presos ou condenados por algum crime?",
   },
   ar: {
-    title: "declaration",
+    title: "صفحة الإعلانات.",
     instruction:
-      "The next set of questions are declaration statements. Please answer with Yes or No",
-    one: "Have you applied for the TEFConnect Programme previously?",
-    oneSub: "If yes, which year(s)?",
+      "المجموعة التالية من بيانات إعلان الأسئلة. يرجى الإجابة بنعم أو لا",
+    one: "هل سبق أن تقدمت بطلب للحصول على برنامج TEFConnect؟",
+    oneSub: "إذا كانت الإجابة "نعم"، أي سنة (سنوات)؟.",
     two:
-      "Have you received seed capital from the TEFConnect Programme in previous cycles?",
-    twoSub: "If yes, which year(s)?",
+      "هل تلقيت رساميل أولية من برنامج TEFConnect في الدورات السابقة؟ ?",
+    twoSub: "إذا كانت الإجابة "نعم"، أي سنة (سنوات)؟.",
     three:
-      "Do you have business partners or collaborators who are Alumnus of the Programme?",
+      "هل لديك شركاء أعمال أو متعاونون من ألومنوس من البرنامج؟.",
     four:
-      "Are you a sanctioned person or / a business partner of / or a close relative/ or a friend of a sanctioned person or group? (Sanction Meaning: Punitive or restrictive measures imposed on a country, person or business)",
+      "هل أنت شخص خاضع للعقوبات أو / شريك عمل لـ / أو قريب/أو صديقمن شخص أو مجموعة خاضعة للعقوبات؟ (معنى العقوبة: التدابير العقابية أو التقييدية المفروضة على بلد أو شخص أو شركة).",
     five:
-      "Do you, your business partner or your company have any direct/indirect dealings involving a sanctioned country or a sanctioned person/group?",
+      "هل تتعامل أنت أو شريكك التجاري أو شركتك بشكل مباشر/غير مباشر مع دولة خاضعة للعقوبات أو شخص/مجموعة خاضعة للعقوبات؟.",
     six:
-      "Are you a politically exposed person or a close relative/friend of a politically exposed person? (Political Exposed Person Meaning: one who has held prominent public/political office or publicly shown interest in holding prominent public/political office)",
+      "هل أنت شخص معرض لمخاطر سياسية سياسية أو قريب/صديق مقرب من شخص معرض لمخاطر سياسيةشخص يعني: شخص شغل منصباً عاماً/سياسياً بارزاً أو أبدى اهتماماً علناً بمنصب عام/سياسي بارز).",
     seven:
-      "Have you or your business partner(s) ever been investigated, arrested or penalised for any crime or terrorist related charges?",
+      "هل تم التحقيق معك أو مع شريك (شركاء) عملك أو توقيفك أو معاقبتهم على أي جريمة أو تهم مرتبطة بالإرهاب؟",
     eight: "",
     nine: "",
     ten: "",
     eleven:
-      "Are you in business with any TEF staff or staff of any TEF affiliated company (TEF affiliated companies Meaning: includes any company in the Heirs Holdings investment portfolio)?",
+      "هل تعمل مع أي من موظفي مؤسسة TEF أو موظفي أي شركة تابعة لها (شركات تابعة لشركة TEF تعني: هل تشمل أي شركة في محفظة استثمار الورثة القابضة)؟.",
     twelve:
-      "Are you a current or previous staff of any TEF affiliated company?",
+      "هل أنت موظف حالي أو سابق في أي شركة تابعة لـ TEF؟ ",
     button: "submit application",
     preview: "Preview Bio and Experience info",
-    yes: "yes",
-    no: "no",
+    yes: "نعم",
+    no: ".لا",
     thirteen:
       "Have you or your business partner(s) ever been investigated, arrested or penalized for any terrorist-related charges",
     fourteen:
