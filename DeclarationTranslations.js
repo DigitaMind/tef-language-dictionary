@@ -134,15 +134,15 @@ export const DeclarationTranslations = {
       "هل تعمل مع أي من موظفي مؤسسة TEF أو موظفي أي شركة تابعة لها (شركات تابعة لشركة TEF تعني: هل تشمل أي شركة في محفظة استثمار الورثة القابضة)؟.",
     twelve:
       "هل أنت موظف حالي أو سابق في أي شركة تابعة لـ TEF؟ ",
-    button: "submit application",
-    preview: "Preview Bio and Experience info",
+    button: "تقديم استمارة التقديم",
+    preview: "معاينة المعلومات الخاصة بك",
     yes: "نعم",
     no: ".لا",
     thirteen:
-      "Have you or your business partner(s) ever been investigated, arrested or penalized for any terrorist-related charges",
+      "هل تم استجوابك أنت أو شريكك (شركاؤك) في العمل أو توقيفهم أو معاقبتهم على أي تهم تتعلق بالإرهاب",
     fourteen:
-      "Have you or your business partner(s) ever been investigated, arrested, or penalised for any financial related offence",
+      "هل تم استجوابك أنت أو شريكك (شركاؤك) في العمل أو توقيفهم أو معاقبتهم على أي جريمة مالية",
     fifteen:
-      "Have you or your business partner(s) ever been investigated, arrested or convicted of any crime?",
+      "هل سبق لك أن خضعت أنت أو شريكك (شركاؤك) في العمل للتحقيق أو القبض عليك أو إدانتك بأي جريمة؟",
   }
 };
