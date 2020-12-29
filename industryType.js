@@ -153,4 +153,56 @@ export const industryTypes = {
     { label: "Transporte", value: "Transportation" },
     { label: "Gerência de Lixos", value: "Waste Management" },
   ],
+  
+  ar: [
+    {
+      label: "Agriculture (Agri-business, Farming, etc.)",
+      value: "Agriculture",
+    },
+    {
+      label: "Beauty & Wellness",
+      value: "Beauty & Wellness",
+    },
+    { label: "Aviation", value: "Aviation" },
+    { label: "Commercial/Retail", value: "Commercial/Retail" },
+    { label: "Construction", value: "Construction" },
+    { label: "Consulting", value: "Consulting" },
+    { label: "Education and Training", value: "Education and Training" },
+    {
+      label: "Energy/Power Generation",
+      value: "Energy/Power Generation",
+    },
+    { label: "Event Planning", value: "Event Planning" },
+    { label: "Fashion", value: "Fashion" },
+    { label: "Financial Services", value: "Financial Services" },
+    { label: "FMCG", value: "FMCG" },
+    { label: "Food & Beverages", value: "Food & Beverages" },
+    { label: "Haulage/ Logistics", value: "Haulage/ Logistics" },
+    { label: "Healthcare", value: "Healthcare" },
+    { label: "ICT", value: "ICT" },
+    {
+      label: "Intellectual Property Services",
+      value: "Intellectual Property Services",
+    },
+    { label: "Manufacturing", value: "Manufacturing" },
+    {
+      label: "Media and Entertainment",
+      value: "Media and Entertainment",
+    },
+    { label: "Oil & Gas", value: "Oil & Gas" },
+    // { label: "Other", value: "Other" },
+    { label: "Professional Services", value: "Professional Services" },
+    { label: "Telecommunication", value: "Telecommunication" },
+    { label: "Textile", value: "Textile" },
+    { label: "Tourism/Hospitality", value: "Tourism/Hospitality" },
+    { label: "Transportation", value: "Transportation" },
+    { label: "Waste Management", value: "Waste Management" },
+
+    { label: "Legal Services / Law", value: "Legal Services / Law" },
+    {
+      label: "Forestry and Wood Processing",
+      value: "Forestry and Wood Processing",
+    },
+    { label: "Mining", value: "Mining" },
+  ],
 };
