@@ -84,7 +84,8 @@ export const sectionThreeTranslations = {
     "Dans chacune des questions suivantes se trouve une déclaration. Vous devez sélectionner la meilleure option qui décrit votre opinion sur la déclaration. Veuillez répondre honnêtement à toutes les questions.",
   pt:
     "Em cada uma das perguntas a seguir há uma declaração. Você deve selecionar a melhor opção que descreve sua opinião sobre a declaração. Por favor, responda todas as perguntas honestamente.",
-  ar: "",
+  ar: "في كل سؤال من الأسئلة التالية عبارة. عليك تحديد الخيار الأفضل الذي يصف رأيك في العبارة.
+يرجى الإجابة عن كل الأسئلة بأمانة..",
 };
 
 export const sectionFourTranslations = {
@@ -94,5 +95,6 @@ export const sectionFourTranslations = {
     "Cette section contient quelque questions d’affaire de base. Vous choisirez la meilleure réponse de toutes les options chaque fois.",
   pt:
     "Está seção contém qualquer questões de negócios básicos e têm que escolher a melhor resposta de todas as opções cada vez.",
-  ar: "",
+  ar: "يحتوي هذا القسم على بعض الأسئلة التجارية والمالية. 
+عليك اختيار الإجابة الأكثر صحة.",
 };
