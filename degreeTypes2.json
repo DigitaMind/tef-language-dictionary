@@ -1,0 +1,30 @@
+[
+  {
+    "value": "some high school",
+    "label": "Some High School"
+  },
+  {
+    "value": "high school diploma / ged",
+    "label": "High School Diploma / GED"
+  },
+  {
+    "value": "some college",
+    "label": "Some College"
+  },
+  {
+    "value": "associate degree",
+    "label": "Associate Degree"
+  },
+  {
+    "value": "bachelor’s degree",
+    "label": "Bachelor’s Degree"
+  },
+  {
+    "value": "master’s degree or higher",
+    "label": "Master’s Degree or Higher"
+  },
+  {
+    "label":"HND/OND",
+    "value":"hnd/ond"
+  }
+]
