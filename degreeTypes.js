@@ -71,8 +71,8 @@ export const degreeTypes = {
       label: "Diplôme associé",
     },
     {
-      value: "Licence",
-      label: "Licence",
+      value: "Baccalauréat",
+      label: "Baccalauréat",
     },
     {
       value: "Master ou supérieur",
@@ -81,24 +81,24 @@ export const degreeTypes = {
   ],
   pt: [
     {
-      value: "Frequência de Ensino Médio",
-      label: "Frequência de Ensino Médio",
+      value: "Algum Liceu",
+      label: "Algum Liceu",
     },
     {
       value: "Diploma de Ensino Médio",
       label: "Diploma de Ensino Médio",
     },
     {
-      value: "Frequência Universitária",
-      label: "Frequência Universitária",
+      value: "Alguma Faculdade",
+      label: "Alguma Faculdade",
     },
     {
-      value: "Diploma de Curso Profissional",
-      label: "Diploma de Curso Profissional",
+      value: "Grau de Associado",
+      label: "Grau de Associado",
     },
     {
-      value: "Licenciatura",
-      label: "Licenciatura",
+      value: "Diploma de Bacharel",
+      label: "Diploma de Bacharel",
     },
     {
       value: "Mestrados ou Superior",
