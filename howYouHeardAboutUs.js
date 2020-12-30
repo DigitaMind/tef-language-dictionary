@@ -17,20 +17,20 @@ export const howYouHearAboutUs = {
   ],
   
   ar: [
-    { value: "radio", label: "Radio" },
-    { value: "tv", label: "TV" },
-    { value: "social media", label: "Social Media" },
-    { value: "friends and family", label: "Friends & Family" },
+    { value: "radio", label: "الراديو." },
+    { value: "tv", label: "تلفزيون." },
+    { value: "social media", label: "الوسائط الاجتماعية." },
+    { value: "friends and family", label: "الأصدقاء والعائلة." },
     {
       value: "association or community",
-      label: "Association or Community",
+      label: "جمعية أو جماعة.",
     },
     {
       value: "TEFConnect website",
-      label: "TEFConnect Website",
+      label: "موقع ويب TEFConnect. ",
     },
-    { value: "newspaper", label: "Newspaper" },
-    { value: "I got an email", label: "I got an email" },
+    { value: "newspaper", label: "جريدة." },
+    { value: "I got an email", label: "تلقيت بريدًا إلكترونيًا " },
   ],
   
   fr: [
