@@ -6,10 +6,10 @@ export const idTypes = {
     { value: "voter's card", label: "Voter's card" },
   ],
   ar: [
-    { value: "national id", label: "National ID" },
-    { value: "international passport", label: "International Passport" },
-    { value: "driver licence", label: "Driver license" },
-    { value: "voter's card", label: "Voter's card" },
+    { value: "national id", label: "بطاقة الهوية الوطنية" },
+    { value: "international passport", label: "دولي جواز السفر" },
+    { value: "driver licence", label: " رخصة القيادة" },
+    { value: "voter's card", label: "بطاقة الناخب" },
   ],
   fr: [
     {
