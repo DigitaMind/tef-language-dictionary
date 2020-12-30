@@ -21,7 +21,7 @@ export const idTypes = {
   ],
   pt: [
     { value: "ID Nacional", label: "ID Nacional" },
-    { value: "Passaportet", label: "Passaporte" },
+    { value: "Passaporte", label: "Passaporte" },
     { value: "Carteira de motorista", label: "Carteira de motorista" },
     { value: "Voter's card", label: "Voter's card" },
   ],
