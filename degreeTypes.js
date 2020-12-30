@@ -29,27 +29,27 @@ export const degreeTypes = {
   ar: [
     {
       value: "some high school",
-      label: "Some High School",
+      label: "بعض المدارس الثانوية.",
     },
     {
       value: "high school diploma / ged",
-      label: "High School Diploma / GED",
+      label: "دبلوم المدرسة الثانوية / دبلوم الدراسات العليا.",
     },
     {
       value: "some college",
-      label: "Some College",
+      label: "بعض الكليات. ",
     },
     {
       value: "associate degree",
-      label: "Associate Degree",
+      label: "درجة المشاركة.",
     },
     {
       value: "bachelor’s degree",
-      label: "Bachelor’s Degree",
+      label: "درجة البكالوريوس.",
     },
     {
       value: "master’s degree or higher",
-      label: "Master’s Degree or Higher",
+      label: "درجة الماجستير أو أعلى.",
     },
   ],
   
