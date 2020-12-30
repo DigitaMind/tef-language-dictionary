@@ -18,8 +18,8 @@ export const DeclarationTranslations = {
       "Are you a politically exposed person or a close relative/friend of a politically exposed person? (Political Exposed Person Meaning: one who has held prominent public/political office or publicly shown interest in holding prominent public/political office)",
     seven:
       "Have you or your business partner(s) ever been investigated, arrested or penalised for any crime or terrorist related charges?",
-    eight: "",
-    nine: "",
+    eight: "Are you in business with any TEF staff or staff of any TEF affiliated company (TEF affiliated companies Meaning: includes any company in the Heirs Holdings investment portfolio)? ",
+    nine: "Are you a current or previous staff of any TEF affiliated company? ",
     ten: "",
     eleven:
       "Are you in business with any TEF staff or staff of any TEF affiliated company (TEF affiliated companies Meaning: includes any company in the Heirs Holdings investment portfolio)?",
@@ -38,25 +38,25 @@ export const DeclarationTranslations = {
   },
 
   fr: {
-    title: "La déclaration au fin des questions d'évaluation.",
-    instruction: "Questions avec does réponses Oui ou Non",
-    one: "Avez-vous postulé pour le programmes auparavant?",
-    oneSub: "Si oui,  quelle année",
+    title: "PAGE DE DÉCLARATIONS ",
+    instruction: "La prochaine déclaration de questions. Veuillez répondre par Oui ou Non",
+    one: "Avez-vous déjà postulé pour le programme TEFConnect?",
+    oneSub: "Si oui,  quelle(s) année (s)",
     two:
-      "Avez-vous réçu let capital du Programme de TEF dans les cycles passées?",
-    twoSub: "Si oui, quelle année?",
+      "Avez-vous reçu du capital d'amorçage du programme TEFConnect au cours des cycles précédents?",
+    twoSub: "Si oui, quelle (s) année (s)?",
     three:
-      "Avez-vous des partennaires ou des collaborateurs qui sont les anciens béneficiares du Programme?",
+      "Avez-vous des partenaires ou des collaborateurs qui sont des bénéficiaires du programme?",
     four:
-      "Êtes-vous sanctionné/ un partennaire de/ un proche parent de/ ou un(e) ami(e) de quelqu'un sanctionnée ou groupe? (Sanctionné veut dire: Mesures punitives ou restrictive imposées à un pays, une personne et une affaire)",
+      "Êtes-vous une personne sanctionnée ou / un partenaire d’affaire / ou un parent proche / ou un ami d'une personne ou d'un groupe sanctionné? (Signification de la sanction: mesures punitives ou restrictives imposées sur un pays, une personne ou une entreprise)",
     five:
-      "Est-ce que vous, votre partennaire ou votre société avez des rapports directs ou indirects avec des pays sanctionnés ou une personne you groupe  sanctionné?",
+      "Est-ce que vous, votre partenaire d’affaire ou votre entreprise avez des relations directes / indirectes impliquant un pays sanctionné ou une personne / un groupe sanctionné?",
     six:
-      "Êtes-vous une personne politiquement exposée ou boys êtes ami(e) ou parent(e) d'une personne qui est politiquement exposée? (Les personnel exposes politiquement signifie: Celui qui a tenu un poste politique you qui a publiquement montré un intéret à tenir un poste politique)",
+      "Êtes-vous une personne politiquement exposée ou un proche parent / ami d'une personne politiquement exposée? (Personne politiquement exposée Signification: une personne qui a occupé une fonction publique / politique de premier plan ou qui a manifesté publiquement de l'intérêt pour occuper une fonction publique / politique de premier plan)",
     seven:
-      "Est-ce que vous ou vos partennaires des affaires ont été un sujet d'investigation, arrêtés ou penalisé un crime ou un activity terroristiques?",
-    eight: "",
-    nine: "",
+      "Avez-vous déjà fait l'objet d'une enquête, d'une arrestation ou d'une sanction pour un crime ou des accusations liées au terrorisme, vous ou vos partenaires commerciaux?",
+    eight: "Êtes-vous engagé avec des membres du personnel TEF ou du personnel d'une société affiliée à TEF (sociétés affiliées à TEF Signification: inclut toute société dans le portefeuille d'investissement Heirs Holdings)?",
+    nine: "Êtes-vous membre du personnel actuel ou un bénéficiaire d'une société affiliée à TEF?",
     ten: "",
     eleven:
       "Est-ce que vous êtes en partenariat avec un fonctionnaire de TEF ou un fonctionnaire d'une société liée a TEF ( Les sociétés liées a TEF signifies: y compris aucune société filiale à Heirs Holdings)?",
@@ -74,24 +74,24 @@ export const DeclarationTranslations = {
       "Avez-vous déjà fait l'objet d'une enquête, d'une arrestation ou d'une condamnation pour un crime, vous ou vos partenaires commerciaux?",
   },
   pt: {
-    title: "Declaração no fim das questões de avaliação",
-    instruction: 'As questões com respostas "Si o Não"',
-    one: "Você têm postulado para o programa de TEF antigamente?",
-    oneSub: "Se a resposta é si em que ano?",
-    two: "Têm recebido o capital do Programa de TEF nos ciclos antigos?",
-    twoSub: "Se a resposta é si em que ano?",
+    title: "PÁGINA DE DECLARAÇÕES",
+    instruction: "O próximo conjunto de perguntas declarações. Por favor responda com Sim ou Não ",
+    one: "Já se candidatou ao Programa TEFConnect anteriormente?",
+    oneSub: "Se sim, qual ano(s)?",
+    two: "Recebeu capital semente do Programa TEFConnect em ciclos anteriores?",
+    twoSub: "Se sim, qual ano(s)?",
     three:
-      "Você têm parceiros o colaboradores que são beneficiários antigos do Programa?",
+      "Tem parceiros de negócios ou colaboradores que sejam Alumnus/ Ex-alunos do Programa? ",
     four:
-      "Você é uma pessoa sancionada o tinha sancionado o seu parceiro/ um parente próximo/ o têm relações com uma pessoa o um grupo sancionado? (Sanção quer dizer: Medidas punitivas o restritiva imponha a um país, uma pessoa e um negócio)",
+      "É uma pessoa sancionada ou/um parceiro de negócios de/ou um parente próximo/ ou um amigo de uma pessoa ou grupo sancionado? (Termo sancionacionativo: medidas punitivas ou restritivas impostas a um país, pessoa ou empresa)",
     five:
-      "Você o seu parceiro o a sua empresa têm relações diretas e indiretas com um país sancionado,  uma pessoa sancionada o um grupo sancionado.",
+      "O seu parceiro de negócios ou a sua empresa tem quaisquer transações diretas/indiretas que envolvam um país sancionado ou uma pessoa/grupo sancionado? ",
     six:
-      "Você é uma pessoa exposta o têm um parente o amigo que é politicamente espostas? (Politicamente exposta significa: alguém que têm ocupado um posto público importante o têm mostrado um interesse forte para alcançar a um)",
+      "É uma pessoa politicamente exposta ou parente próxima/amiga de uma pessoa politicamente exposta? (Significado de Pessoa Exposta Política: um que tenha exercido um cargo público/político proeminente ou que tenha demonstrado publicamente interesse em exercer cargos públicos/políticos proeminentes) ",
     seven:
-      "Você têm parceiros sob a investigação, parceiros presos o condenados por um crime o atividades terroristicas?",
-    eight: "",
-    nine: "",
+      "Você ou o seu(s) parceiros de negócios já foram investigados, presos ou penalizados por qualquer crime ou acusações relacionadas com terrorismo? ",
+    eight: "Está em atividade com qualquer pessoal ou pessoal da TEF de qualquer empresa afiliada TEF (empresas afiliadas tef significando: inclui qualquer empresa no potfolio de investimento Heirs Holdings)?",
+    nine: "É funcionário atual ou anterior de qualquer empresa afiliada TEF?",
     ten: "",
     eleven:
       "Você está negociando com algum funcionário de TEF o um funcionário de uma empresa afiliada ao TEF?  (As empresas afilhadas ao TEF significa: compreende qualquer empresa sob o grupo Heirs Holdings)?",
@@ -99,7 +99,7 @@ export const DeclarationTranslations = {
       "Você é um funcionário actual o antigo de uma empresa afilliada ao TEF?",
     button: "enviar inscrição",
     preview: "Visualizar informações de biografia e experiência",
-    yes: "Si",
+    yes: "Sim",
     no: "Não",
     thirteen:
       "Você ou seu (s) parceiro (s) de negócios já foi investigado, preso ou penalizado por quaisquer acusações relacionadas ao terrorismo?",
