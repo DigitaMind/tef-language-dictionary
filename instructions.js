@@ -15,34 +15,34 @@ export const instructions = {
     next: 'Click the "Next" button to begin.',
   },
   fr: {
-    title: "Informations sur le processus de candidature",
-    subHeading: "Veuillez lire attentivement les informations suivantes:",
+    title: "Guide pour l'évaluation",
+    subHeading: "Lisez attentivement ce qui suit",
     instruction1:
-      "Cette évaluation est divisée en 4 sections et nécessitera approximativement 45 minutes pour être complétée. Nous vous recommandons de compléter cette évaluation dans un endroit sans distraction et où vous pourrez vous concentrer.",
+      "Cette évaluation est divisée en quatre (4) sections et nécessiterait environ 45 minutes. Il est recommandé de passer l'évaluation dans un environnement exempt de distractions et avec une concentration optimale. ",
     instruction2:
-      "Merci de noter que vous devez répondre à toutes les questions et vous ne pouvez compléter l’évaluation qu’une seule fois.",
+      "Veuillez noter que vous devez répondre à toutes les questions et que vous ne pouvez passer l'évaluation cognitive qu'une seule fois. ",
     instruction3:
-      "Vous devrez télécharger une pièce d'identité (passeport, permis de conduire, Carte Nationale d’Identité, etc.). Nous vous recommandons de scanner votre pièce d’identité et de la télécharger au format .pdf, .jpeg, .jpg, .png, .gif ou .doc avant de commencer.",
+      "Vous devrez également télécharger une pièce d'identité (passeport international, permis de conduire, carte de résidence ou de citoyen, carte d'électeur, numéro d'identification fiscale). Veuillez faire numériser la pièce d'identité que vous avez choisi et être prêt pour le téléchargement au format .pdf, .jpeg, .jpg, .png, .gif ou .doc avant de commencer. ",
     list:
-      "Dans les deux cas suivants, votre candidature ne sera pas prise en compte:",
-    list1: "Candidat.e.s en dessous de l'âge minimum de 18 ans",
+      "Critères de disqualification automatique",
+    list1: "Si vous avez moins de 18 ans",
     list2:
-      "Candidat.e.s ayant reçu une subvention TEF dans un cycle précédent.",
+      "Si vous avez reçu une subvention ou un capital d'amorçage du TEF les années précédentes",
     next: "Cliquez sur le bouton “Suivant” pour commencer.",
   },
   pt: {
-    title: "Guia pela avaliação.",
-    subHeading: "Léia cuidadosamente a seguinte",
+    title: "Diretrizes para a avaliação",
+    subHeading: "Leia o seguinte com atenção",
     instruction1:
-      "A avaliação é dividida nas 4 seções e precisará aproximadamente 45 minutos para completar. E recomendado tomar a avaliação num ambiente livre das distrações e com uma concentração ótima.",
+      "Esta avaliação é dividida em quatro (4) seções e exigirá aproximadamente 45 minutos para ser concluída. É recomendável que você faça a avaliação em um ambiente sem distrações e com concentração ideal.  ",
     instruction2:
-      "Por favor, note bem que você têm que responder a todas as questões e pode somente tomar a avaliação uma vez.",
+      "Tome nota de que você deve responder a todas as perguntas e só pode fazer a avaliação cognitiva uma vez. ",
     instruction3:
-      "É requerido abaixar uma forma de ID ( passaporte internacional, permiso de motorista, Carta de Cidadania/Residência, Carta de Votador, ID de Impostos) Por favor, a sua ID escolhida deve ser escaneada e abaixada no formato .pdf, .jpeg, .jpg, .png, .gif or .doc antes de começar.",
-    list: "O critério de desqualificação automática:",
-    list1: "Candidatos sob 18 de anos.",
-    list2: "Candidatos que têm recebido uma subvenção de TEF nos anos antigos.",
-    next: 'Clique a tecla "Próximo” para começar',
+      "Também será necessário fazer o upload de um documento de identificação (bilhete  de indentidade, passaporte internacional, carta de condução, cartão de residência ou cartão de cidadão, cartão de eleitor, número de identificação fiscal). Antes de começar, por favor tenha a sua forma de identificação escolhida digitalizada e pronta para carregar nos formatos .pdf, .jpeg, .jpg, .png, .gif ou .doc. ",
+    list: "Critérios de desqualificação automática:",
+    list1: "Se você for menor de 18 anos",
+    list2: "Se você recebeu um subsídio ou capital inicial da TEF em anos anteriores ",
+    next: "Clique no botão Avançar para começar.",
   },
   ar: {
     title: "إرشادات التقييم..",
@@ -61,9 +61,9 @@ export const sectionOneTranslations = {
   en:
     "This set of questions are about you. Please ensure that the personal details you provide match the information on your proof of ID.",
   fr:
-    "Cette série de questions est à propos de vous. Veuillez-vous assurer que les informations personnelles que vous fournissez correspondent aux informations figurant sur votre pièce d'identité.",
+    "Cet ensemble de questions vous concerne. Veuillez-vous assurer que les informations personnelles que vous fournissez correspondent aux informations sur votre pièce d'identité. ",
   pt:
-    "Por favor, assegure que os detalhes pessoais que someteu contém as mesmas informações na sua ID.",
+    "Este conjunto de perguntas é sobre você. Certifique-se de que os dados pessoais fornecidos correspondem às informações no seu documento de identidade apresentado. ",
   ar: " هذه المجموعة من الأسئلة تتعلق بك. يرجى التأكد من تطابق التفاصيل الشخصية التي تقدمها مع المعلومات الواردة في إثبات الهوية.",
 };
 
@@ -71,9 +71,9 @@ export const sectionTwoTranslations = {
   en:
     "The next set of questions are about your business idea and experience. Please provide complete and accurate responses.",
   fr:
-    "La prochaine série de questions porte sur votre idée d'entreprise et votre expérience. Veuillez fournir des réponses complètes et précises.",
+    "La prochaine série de questions concerne votre idée d'entreprise et votre expérience. Fournissez s'il vous plait, des réponses complètes et exactes. ",
   pt:
-    "As próximas questões se tratam da sua idéia de negócio e a sua experiência. Você tem que escolher a resposta mais correta.",
+    "O próximo conjunto de perguntas é sobre sua ideia e experiência de negócios. Forneça respostas completas e precisas. ",
   ar: " تتعلق مجموعة الأسئلة التالية بفكرة العمل وخبرته. يرجى تقديم إجابات كاملة ودقيقة.",
 };
 
